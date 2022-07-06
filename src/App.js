@@ -1,17 +1,12 @@
-import React from 'react'
-import "./global.css"
-import Token from './components/Token'
+import React from "react";
+import "./global.css";
 
 function App() {
   return (
-    <div className='App'>
-      <div className='container'>
-        <Token />
-      </div>
-    
-
+    <div className="App">
+      <div className="container"></div>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
